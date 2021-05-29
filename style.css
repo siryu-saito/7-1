@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #ec715f;
+  /* 仮 */
+  height: 70px;
+}
+
+.page-header {
+  max-width: 1024px;
+  margin: 0 auto;
+
+  background-color: aqua;
+  height: 70px;
+}
